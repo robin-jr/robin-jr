@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-   <h1>Hi there, I'm <a href="https://www.nanthakumaran.com/">Nanthakumaran S</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://www.robinj.dev/">Robin J</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 ## <p align='center'>Software Developer</p>
@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robin-jr&hide=html,css&theme=dark&layout=compact&langs_count=6)]()
 
-[![Nanthakumaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=robin-jr&theme=dark)]()
+[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robin-jr&theme=dark)]()

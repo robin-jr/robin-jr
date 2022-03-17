@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robin-jr&hide=html,css&theme=dark&layout=compact&langs_count=6)]()
 
-[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robin-jr&theme=dark)]()
+[![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robin-jr&count_private=true&show_icons=true&theme=dark)]()
